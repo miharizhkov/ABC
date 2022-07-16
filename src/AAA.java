@@ -18,6 +18,9 @@ public class AAA {
         System.out.println(a);
         a[3] = 'h';
         System.out.println(a);
+        // Уровень 2
+        // Задача 1
+
 
     }
 }
