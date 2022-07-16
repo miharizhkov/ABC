@@ -20,7 +20,9 @@ public class AAA {
         System.out.println(a);
         // Уровень 2
         // Задача 1
-
-
+        String i = "234";
+        int v = Integer.parseInt(i.trim());
+        System.out.println(v+"some_text".length());
+        // Задача 2
     }
 }
