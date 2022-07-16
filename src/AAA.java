@@ -1,5 +1,6 @@
 public class AAA {
     public static void main(String[] args) {
+        // Уровень 1
         // Задача 1
         String hi = "                Hello ";
         String world = " WoRld!";
@@ -17,5 +18,6 @@ public class AAA {
         System.out.println(a);
         a[3] = 'h';
         System.out.println(a);
+
     }
 }
