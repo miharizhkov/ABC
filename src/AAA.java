@@ -10,7 +10,7 @@ public class AAA {
         System.out.println(o + newLine + o + newLine + o);
         // Задача 2
         double rost = 1.85;
-        double ves = 85.3;
+        int ves = 80;
         double imt = ves / (rost * rost);
         System.out.println(imt);
         // Задача 3
